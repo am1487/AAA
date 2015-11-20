@@ -1,0 +1,32 @@
+.container {
+	margin-top: 50px;
+}
+
+.center-block {
+	float: none;
+}
+
+.table th {
+	background-color: #c0c0c0;
+}
+
+td .btn {
+	padding: 0px 6px;
+}
+
+.userInfo {
+	margin-top: 50px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#logoutid {
+    margin-top: 20px;
+}
+
+.buttons {
+    margin-top: 50px;
+    
+}
